@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "254766757558",
+    "project_id": "babysitter-booking-app",
+    "storage_bucket": "babysitter-booking-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254766757558:android:b376267bc7c5fa2f59d817",
+        "android_client_info": {
+          "package_name": "com.des3113.babysitter_booking_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBpsbq6P4NSNoeiCdjYUIL3HiyD69553c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
